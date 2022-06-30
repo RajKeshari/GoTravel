@@ -1,10 +1,5 @@
 # GoTravel - a MERN Stack Travel Agency Website
 
-### Backend 
-
-Backend was built based on a tutorial from https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
-
-
 ### Fronted built with Create-React-App
 
 Complete with
