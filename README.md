@@ -21,3 +21,7 @@ Complete with
 ![Tours](./public/screenshots/tours.png)
 ![Admin Page](./public/screenshots/createtour.png)
 ![Stripe](./public/screenshots/stripe.png)
+
+### Deployed 
+
+[Live](https://go-travel-agency.herokuapp.com/)
