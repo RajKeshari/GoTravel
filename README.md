@@ -23,5 +23,19 @@ Complete with
 ![Stripe](./public/screenshots/stripe.png)
 
 ### Deployed 
-
 [Live](https://go-travel-agency.herokuapp.com/)
+
+### Install 
+
+for frontend
+```
+cd client
+npm install 
+npm start
+```
+
+for backend
+```
+npm install 
+npm start
+```
