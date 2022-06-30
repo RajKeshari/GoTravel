@@ -1,6 +1,6 @@
 # GoTravel - a MERN Stack Travel Agency Website
 
-### Fronted built with Create-React-App
+### Frontend built with Create-React-App
 
 Complete with
   * User authentication & authorization
